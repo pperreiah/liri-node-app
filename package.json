@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "clams-omdb": "^0.2.7",
     "imdb-search": "^0.1.5",
     "inquirer": "^4.0.1",
     "node-spotify-api": "^1.0.7",
